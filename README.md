@@ -1,5 +1,5 @@
 # 👉 Join the [EdgyPro Community Discord](https://edgypro.net/discord)!
-EdgyPro is a comprehensive automatic bot designed for Edgenuity, offering students a range of features for enhanced learning efficiency. Including features like Auto Advance to seamlessly progress through activities and Auto Answers for accurate responses in quizzes and assignments. EdgyPro also integrates Brainly and ChatGPT for additional support. EdgyPro was developed to help students complete their courses quickly and with accuracy!
+EdgyPro is a comprehensive automatic bot designed for Edgenuity, offering students a range of features for enhanced learning efficiency. Including features like Auto Advance to seamlessly progress through activities and Auto Answers for accurate responses in quizzes and assignments. EdgyPro also integrates Brainly and ChatGPT for additional support. EdgyPro was developed to help students complete their courses quickly and with accuracy! EdgyPro is an Edgenuity Script That does your work for you! EdgyPro is #1 source for Edgenuity answers. Get 100% Scores on all activities and Edgenuity Quiz Answers! 
 
 # 🔍 How to use the script?
 [Join our Discord here for support on using EdgyPro](https://edgypro.net/discord)!
